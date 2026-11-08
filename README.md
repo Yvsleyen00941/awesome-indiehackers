@@ -6,6 +6,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 
 ## 🧑‍💻 Indie Hackers
 
+- [Yorben Vander Sleyen](https://yorben.me) - Creator of Cockpit, Tape, and Rime for macOS.
 - [Marc Lou](https://x.com/marclou)
 - [Alex West](https://x.com/alexwestco)
 - [Jim Raptis](https://x.com/d__raptis)
