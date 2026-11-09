@@ -5,6 +5,7 @@
 An indie hacker is an independent creator who builds projects and makes money independently, without employees or external funding.
 
 ## 🧑‍💻 Indie Hackers
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Elegant Now Playing companion for macOS Dock built natively by an indie maker.
 
 - [Marc Lou](https://x.com/marclou)
 - [Alex West](https://x.com/alexwestco)
