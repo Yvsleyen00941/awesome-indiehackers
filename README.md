@@ -155,3 +155,6 @@ Want your product featured at the top of this list? [Contact me](mailto:contact@
 This project is licensed under the GNU GPL v3.0 - see the [LICENSE.txt](https://raw.githubusercontent.com/johackim/awesome-indiehackers/master/LICENSE.txt) file for details
 
 **Free Software, Hell Yeah!**
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Beautiful Now Playing widget for the empty corner beside the Mac Dock.
